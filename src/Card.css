@@ -1,0 +1,6 @@
+.Card {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translatex(-50%);
+}
